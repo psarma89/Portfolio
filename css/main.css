@@ -1,0 +1,33 @@
+body {
+	background-color: #9d9d9d;
+/*	background-color: #68829E; */
+/*	color: #9d9d9d; */
+/*	background-image: url("../images/2016-06-23 19.52.56.jpg");
+  	background-repeat: no-repeat;
+	background-size: cover;
+  	width: 100%;
+  	padding: 20%;
+  	background-attachment: fixed;
+  	background-position: center center;
+*/}
+
+.navbar {
+	margin-bottom: 0;
+}
+
+.jumbotron{
+	color: #FFFFFF;
+	background-image: url("../images/2016-06-29 17.31.34.jpg");
+/*	background-image: url("../images/2016-06-23 19.52.56.jpg");
+*/	
+  	background-repeat: no-repeat;
+	background-size: cover;
+  	width: 100%;
+  	padding: 20%;
+  	background-attachment: fixed;
+  	background-position: center center;
+}
+
+.class{
+	
+}
